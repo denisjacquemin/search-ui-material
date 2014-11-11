@@ -16,9 +16,8 @@
     "tests"
   ],
   "dependencies": {
-    "zepto": "~1.0.0",
-    "react": "~0.8.0",
-    "director": "~1.2.2",
+    "zepto": "~1.1.4",
+    "react": "~0.12.0",
     "normalize-css": "~2.1.3"
   }
 }
